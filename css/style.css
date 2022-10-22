@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+#header{
+    background: rgba(217, 217, 217, 0.15);
+}
+.log{
+    position: absolute;
+    left: 213px;
+    top: 65px;
+    font-family:"system-ui";
+    font-weight: 910;
+    color: blue;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.circle{
+    position: absolute;
+    left: 785px;
+    top: 105px;
+}
+.top{
+    position: absolute;
+    left: 1075px;
+    top: 75px;
+    transform: rotate(-90deg)
+}
+.helpCar{
+    position: absolute;
+    left: 795px;
+    top: 200px;
+}
+.med{
+    position: absolute;
+    width: 65px;
+    height: 63px;
+    left: 209px;
+    top: 55px;
+}
+.log{
+    left: 290px;
+    font-size:32px;
+}
+.word{
+    position: absolute;
+    width: 590px;
+    left: 215px;
+    top: 302px;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 45px;
+    color: #FFFFFF;
+}
+.call{
+    position: absolute;
+    left: 195px;
+    top: 490px;
+}
+
+.group{
+    position: absolute;
+    width: 1210px;
+    height: 144px;
+    left: 187px;
+    top: 679px;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.menu{
+   margin: 90px;
+    font-size: 40px;
+    color: #67CDD9;
+    font-family:sans-serif;
+}
+.photo{
+    margin: 90px;
+}
+.cards{
+    position: absolute;
+    left: 220px;
+    top: 1185px;
+}
+#about{
+    background: #F3FEFF;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.contact{
+    margin: 150px;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 36px;
+    color: #00A1B4;
+}
+.
